@@ -60,7 +60,7 @@ ul {
   font-style: normal;
 }
 
-.telefon {
+.telephone {
   color: #434455;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -71,8 +71,8 @@ ul {
   font-style: normal;
 }
 
-.telefon:hover,
-.telefon:focus {
+.telephone:hover,
+.telephone:focus {
   color: #404bbf;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
