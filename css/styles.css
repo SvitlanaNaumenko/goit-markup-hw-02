@@ -56,6 +56,10 @@ ul {
     font-style: normal;
 }
 
+.address {
+    font-style: normal;
+}
+
 .telefon {
     color: #434455;
     font-family: "Roboto", sans-serif;
@@ -238,6 +242,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
     }
 
 .footer-logo-accent {
