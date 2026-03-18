@@ -8,22 +8,6 @@ ul {
     list-style: none;
 }
 
-.header-logo,
-.email,
-.telefon,
-.footer-logo,
-.header-link {
-    text-decoration: none;
-}
-
-.address-list, 
-.header-list, 
-.features-list,
-.team-list, 
-.portfolio-list {
-    list-style-type: none;
-}
-
 .header {
     background-color: #FFFFFF; 
 }
@@ -49,36 +33,70 @@ ul {
 }
 
 .header-link {
-  color: #2E2F42;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 
 .header-link:hover,
 .header-link:focus {
     color: #404bbf;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
 }
 
-.address-list {
-    color: #434455; 
+.telefon {
+    color: #434455;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
 }
 
 .telefon:hover,
 .telefon:focus {
-    color:  #404bbf;
+    color: #404bbf;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.email {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
 }
 
 .email:hover,
 .email:focus {
     color: #404bbf;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
 }
 
 .hero {
@@ -130,7 +148,6 @@ ul {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    font-family: var(--font-family);
     letter-spacing: 0.02em;
 }
 
