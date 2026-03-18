@@ -20,6 +20,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none
 }
 
 .header-logo-accent {
@@ -30,6 +31,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none
 }
 
 .header-link {
@@ -40,6 +42,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-style: normal;
+    text-decoration: none
 }
 
 .header-link:hover,
@@ -164,7 +167,7 @@ ul {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
 }
@@ -200,7 +203,7 @@ ul {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
 }
@@ -245,6 +248,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none
 }
 
 .footer-text {
